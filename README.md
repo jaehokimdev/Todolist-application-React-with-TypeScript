@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+## What project is it?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My first TypeScript project. It is just simple todolist application.
 
-## Available Scripts
+## Languages
 
-In the project directory, you can run:
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=FFF&color=%23FFCE5A)
 
-### `npm start`
+## How to run this program?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Download the master project brach or clone the git repository
+2. To install node modules, run the following command. `npm install`
+3. Type the following command for start this program. `npm start`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Functions and screenshots
 
-### `npm test`
+Add todo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="2042" alt="1" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/6674ca55-be14-431b-b478-4d768293ae6f">
 
-### `npm run build`
+<img width="2042" alt="2" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/2213f221-297c-4d7a-a0e1-b7bb43c5523f">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="2042" alt="3" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/c7b7ac6e-6cdb-4d8d-9904-dec76b8343a3">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img width="2042" alt="4" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/f6e96cc2-1f9f-4fa9-9a42-3f6f535fbf64">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Delete todo
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="2042" alt="5" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/b8e99d27-f979-418b-a886-c3b88cbf520f">
