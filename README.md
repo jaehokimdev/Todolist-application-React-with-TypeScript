@@ -18,16 +18,24 @@ My first TypeScript project. It is just simple todolist application.
 
 ## Functions and screenshots
 
-Add todo
+Add todolist
 
 <img width="2042" alt="1" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/6674ca55-be14-431b-b478-4d768293ae6f">
 
+*****
+
 <img width="2042" alt="2" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/2213f221-297c-4d7a-a0e1-b7bb43c5523f">
+
+*****
 
 <img width="2042" alt="3" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/c7b7ac6e-6cdb-4d8d-9904-dec76b8343a3">
 
+*****
+
 <img width="2042" alt="4" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/f6e96cc2-1f9f-4fa9-9a42-3f6f535fbf64">
 
-Delete todo
+*****
+
+Delete todolist
 
 <img width="2042" alt="5" src="https://github.com/jaehokimdev/react-typescript-todolist/assets/101899896/b8e99d27-f979-418b-a886-c3b88cbf520f">
